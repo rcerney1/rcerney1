@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rcerney1
+- 👋 Hi, I’m Ryan Cerney @rcerney1
 
 - 📫 How to reach me ...ryancerney1@gmail.com
 
