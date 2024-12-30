@@ -55,7 +55,7 @@ Comic Cache: A one-stop shop for comic book enthusiasts! Featuring:
 
 
 ## 📫 Contact Me
-<p align="center">
+<p>
   <a href="mailto:ryanccerney@gmail.com">
     <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail"/>
   </a>
