@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Ryan!
 
 Welcome to my GitHub profile! I'm passionate about creating amazing projects and solving problems with code. Here's a little bit about me and my work:
 
@@ -16,24 +16,21 @@ Welcome to my GitHub profile! I'm passionate about creating amazing projects and
 
 ## 🛠️ Skills & Tools
 
-**Languages**:
-<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40"/> Python  
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="40"/> JavaScript  
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40"/> C++  
-<img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-database-soft-fill-soft-fill-juicy-fish.png" alt="SQL" width="40"/> SQL  
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40"/> HTML5  
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40"/> CSS3
-
-**Frameworks & Libraries**:
-<img src="https://img.icons8.com/office/40/000000/react.png" alt="React.js" width="40"/> React.js  
-<img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" width="40"/> Flask  
-<img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js" width="40"/> Node.js  
-<img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express" width="40"/> Express
-
-**Tools**:
-<img src="https://img.icons8.com/color/48/000000/linux.png" alt="LINUX Terminal" width="40"/> LINUX Terminal  
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40"/> Git  
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40"/> VS Code
+<p align="center">
+<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40"/>
+<img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-database-soft-fill-soft-fill-juicy-fish.png" alt="SQL" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40"/>
+<img src="https://img.icons8.com/office/40/000000/react.png" alt="React.js" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" width="40"/>
+<img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js" width="40"/>
+<img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/linux.png" alt="LINUX Terminal" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40"/>
+</p>
 
 ---
 
