@@ -64,6 +64,5 @@ Comic Cache: A one-stop shop for comic book enthusiasts! Featuring:
   </a>
 </p>
 
----
 
 ### Thanks for visiting! 💻 Let's create something amazing together.
