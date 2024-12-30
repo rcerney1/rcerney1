@@ -53,17 +53,6 @@ Comic Cache: A one-stop shop for comic book enthusiasts! Featuring:
 
 [View Repository](https://github.com/rcerney1/Comic_Cache) | [Live Demo](https://comic-cache.onrender.com/)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rcerney1&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rcerney1&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rcerney1&theme=radical)
-
----
 
 ## 📫 Contact Me
 - 📧 Email: [ryanccerney@gmail.com](mailto:ryanccerney@gmail.com)
