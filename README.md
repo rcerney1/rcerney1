@@ -20,7 +20,6 @@ Welcome to my GitHub profile! I'm passionate about creating amazing projects and
 <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="40"/>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40"/>
-<img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-database-soft-fill-soft-fill-juicy-fish.png" alt="SQL" width="40"/>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40"/>
 <img src="https://img.icons8.com/office/40/000000/react.png" alt="React.js" width="40"/>
