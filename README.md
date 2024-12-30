@@ -46,7 +46,7 @@ Application Tracker: A tool to efficiently manage and organize your job applicat
 
 ### Comic Cache
 ![Project Thumbnail](https://github.com/rcerney1/Comic_Cache/blob/main/comic%20cache.png?raw=true)
-Comic Cache: A one-stop shop for comic book enthusiasts! Featuring:
+Comic Cache: A one-stop e-commerce shop for comic book enthusiasts! Featuring:
 - ⭐ Adding and saving your favorite comics.
 - 🛒 Smooth shopping experience.
 - 🔍 Advanced search and filtering.
