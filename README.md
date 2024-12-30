@@ -4,6 +4,9 @@ Welcome to my GitHub profile! I'm passionate about creating amazing projects and
 
 ---
 
+<iframe src="https://giphy.com/embed/tuCFp8rod0x3O" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p><a href="https://giphy.com/gifs/luffy-tuCFp8rod0x3O">via GIPHY</a></p>
+
 ## 🚀 About Me
 - 💻 I’m a **Full Stack Web Developer** who loves building both front-end and back-end solutions.
 - 🎨 I enjoy blending creativity with technology to build unique digital experiences.
