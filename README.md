@@ -56,13 +56,14 @@ Comic Cache: A one-stop shop for comic book enthusiasts! Featuring:
 
 ## 📫 Contact Me
 <p>
-  <a href="mailto:ryanccerney@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail"/>
-  </a>
   <a href="https://www.linkedin.com/in/ryanccerney/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ryanccerney@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
+---
 
 ### Thanks for visiting! 💻 Let's create something amazing together.
