@@ -55,8 +55,14 @@ Comic Cache: A one-stop shop for comic book enthusiasts! Featuring:
 
 
 ## 📫 Contact Me
-- 📧 Email: [ryanccerney@gmail.com](mailto:ryanccerney@gmail.com)
-- 💼 LinkedIn: [Ryan Ccerney](https://www.linkedin.com/in/ryanccerney/)
+<p align="center">
+  <a href="mailto:ryanccerney@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ryanccerney/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
