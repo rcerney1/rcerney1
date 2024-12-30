@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Ryan]!
+# 👋 Hi there, I'm [Your Name]!
 
 Welcome to my GitHub profile! I'm passionate about creating amazing projects and solving problems with code. Here's a little bit about me and my work:
 
@@ -17,35 +17,34 @@ Welcome to my GitHub profile! I'm passionate about creating amazing projects and
 ## 🛠️ Skills & Tools
 
 **Languages**:
-![Python](https://img.shields.io/badge/-Python-blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![C++](https://img.shields.io/badge/-C++-blue)
-![SQL](https://img.shields.io/badge/-SQL-orange)
-![HTML5](https://img.shields.io/badge/-HTML5-orange)
-![CSS3](https://img.shields.io/badge/-CSS3-blue)
+<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40"/> Python  
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="40"/> JavaScript  
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40"/> C++  
+<img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-database-soft-fill-soft-fill-juicy-fish.png" alt="SQL" width="40"/> SQL  
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40"/> HTML5  
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40"/> CSS3
 
 **Frameworks & Libraries**:
-![React.js](https://img.shields.io/badge/-React.js-blue)
-![Flask](https://img.shields.io/badge/-Flask-black)
-![Node.js](https://img.shields.io/badge/-Node.js-green)
-![Express](https://img.shields.io/badge/-Express-green)
+<img src="https://img.icons8.com/office/40/000000/react.png" alt="React.js" width="40"/> React.js  
+<img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" width="40"/> Flask  
+<img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js" width="40"/> Node.js  
+<img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express" width="40"/> Express
 
 **Tools**:
-![LINUX Terminal](https://img.shields.io/badge/-LINUX%20Terminal-gray)
-![Git](https://img.shields.io/badge/-Git-red)
-![VS Code](https://img.shields.io/badge/-VS%20Code-blue)
+<img src="https://img.icons8.com/color/48/000000/linux.png" alt="LINUX Terminal" width="40"/> LINUX Terminal  
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40"/> Git  
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40"/> VS Code
 
 ---
 
 ## 🌟 Featured Projects
 
 ### Application Tracker
-![Project Thumbnail](https://github.com/rcerney1/application_tracker/blob/main/comic%20cache2.png?raw=true)
+![Project Thumbnail](https://github.com/rcerney1/application_tracker/blob/main/appTrack.png?raw=true)
 Application Tracker: A tool to efficiently manage and organize your job applications! Featuring:
 - 📝 Add and update job applications.
 - 📊 Track application status and notes.
 - 📂 Manage and organize cover letters.
-
 
 [View Repository](https://github.com/rcerney1/application_tracker) | [Live Demo](https://application-tracker-pbap.onrender.com/)
 
